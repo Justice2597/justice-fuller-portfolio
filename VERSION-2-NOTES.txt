@@ -1,0 +1,12 @@
+Justice Fuller Portfolio — Version 2
+
+Updates:
+- Exact education dates added
+- Homepage degree milestones clarified
+- Cybersecurity master's labeled In Progress
+- Project roadmap expanded
+- Certification wording clarified to avoid claiming unverified credentials
+- Existing Splunk case study, graduation photo, black/gold design retained
+
+To deploy on Netlify:
+Drag the entire justice-fuller-portfolio-v2 folder into the Production deploys drop area.
